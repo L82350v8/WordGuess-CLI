@@ -1,0 +1,23 @@
+{
+  "name": "WordGuess-CLI",
+  "version": "1.0.0",
+  "description": "A \"wheel-of-fortune\" style game where the user attempts to guess a hidden word by submitting letters thru the command line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L82350v8/WordGuess-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L82350v8/WordGuess-CLI/issues"
+  },
+  "homepage": "https://github.com/L82350v8/WordGuess-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
