@@ -1,7 +1,8 @@
 # WordGuess-CLI
 A "wheel-of-fortune" style game where the user attempts to guess a hidden word by submitting letters thru the command line interface. 
 
-Setup Instructions
+# Setup Instructions:
+
 This command line interface (CLI) game uses the JavaScript npm package "inquirer" to interact with the player.  
 
 To install the inquirer npm package: 
@@ -12,7 +13,7 @@ Make a .gitignore file and add the following lines to it. This will tell git not
 node_modules
 ```
 
-To play the WordGuess-CLI game:
+# To play the WordGuess-CLI game:
 
 Open your Command Prompt terminal and navigate to your project folder. Then, type the command:
 
